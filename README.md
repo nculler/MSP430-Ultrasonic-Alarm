@@ -38,11 +38,6 @@ This project demonstrates the use of an ultrasonic range finder to create an inv
    - Trigger the buzzer if an object is detected within a threshold range.
 5. Compile and flash the firmware onto the MSP430.
 
-## Future Enhancements
-- Implement a more refined distance filtering algorithm.
-- Add a display or LED indicators for status feedback.
-- Introduce multiple sensors for broader coverage.
-
 ## Additional Information
 More details about this project can be found in the **Lab 4 - Ultrasonic Alarm** PDF.
 
